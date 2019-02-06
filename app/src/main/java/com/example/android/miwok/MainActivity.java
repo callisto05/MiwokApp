@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         // Set the content of the activity to use the activity_main.xml layout file
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_mainn);
 
         // Find the View that shows the numbers category
         TextView numbers = (TextView) findViewById(R.id.numbers);
